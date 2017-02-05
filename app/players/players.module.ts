@@ -8,7 +8,7 @@ import {PlayersComponent} from "./players.component";
 // Задача BrowserModule зарегистрировать основные сервис провайдеры приложения,
 // а также добавить общие директивы такие как ngIf и ngFor
 @NgModule({
-    imports:      [ BrowserModule],
+    imports:      [ BrowserModule ],
     declarations: [ PlayersComponent ], // корневой компонент данного приложения
 })
 
